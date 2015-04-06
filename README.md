@@ -7,7 +7,7 @@ Simple browser based soundboard for various uses.
 Release
 =======
 
-You can just download the `www/` -directory contents from the Releases -page.
+You can just download the `www/` -directory contents from the [project's Releases -page](https://github.com/lietu/soundboard/releases).
 
 
 Source code
