@@ -1,0 +1,6 @@
+{
+  "name": "soundboard",
+  "dependencies": {
+    "rivets": "~0.8.1"
+  }
+}

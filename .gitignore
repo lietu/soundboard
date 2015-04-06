@@ -1,0 +1,8 @@
+.idea/
+www/js/vendor/rivets
+www/js/vendor/sightglass
+www/sounds/*.mp3
+www/sounds/*.wav
+www/sounds/*.ogg
+www/sounds/*.m4a
+www/sounds/*.aac
